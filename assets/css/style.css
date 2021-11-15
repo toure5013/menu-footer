@@ -1,0 +1,21 @@
+.n-link{
+    color: white; 
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.f-link{ 
+    color: darkcyan; 
+    text-decoration: none;
+}
+
+.s-menu{
+    font-weight: bold; 
+    font-size: 2em;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
